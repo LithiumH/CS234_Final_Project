@@ -1,0 +1,84 @@
+\begin{thebibliography}{12}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Abe et~al.(2003)Abe, Biermann, and Long]{abe2003reinforcement}
+Abe, N., Biermann, A.~W., and Long, P.~M.
+\newblock Reinforcement learning with immediate rewards and linear hypotheses.
+\newblock \emph{Algorithmica}, 37\penalty0 (4):\penalty0 263--293, 2003.
+
+\bibitem[Agrawal \& Goyal(2013)Agrawal and Goyal]{agrawal2013thompson}
+Agrawal, S. and Goyal, N.
+\newblock Thompson sampling for contextual bandits with linear payoffs.
+\newblock In \emph{International Conference on Machine Learning}, pp.\
+  127--135, 2013.
+
+\bibitem[Auer(2002)]{auer2002using}
+Auer, P.
+\newblock Using confidence bounds for exploitation-exploration trade-offs.
+\newblock \emph{Journal of Machine Learning Research}, 3\penalty0
+  (Nov):\penalty0 397--422, 2002.
+
+\bibitem[Cai et~al.(2017)Cai, Ren, Zhang, Malialis, Wang, Yu, and
+  Guo]{cai2017real}
+Cai, H., Ren, K., Zhang, W., Malialis, K., Wang, J., Yu, Y., and Guo, D.
+\newblock Real-time bidding by reinforcement learning in display advertising.
+\newblock In \emph{Proceedings of the Tenth ACM International Conference on Web
+  Search and Data Mining}, pp.\  661--670, 2017.
+
+\bibitem[Codevilla et~al.(2018)Codevilla, Miiller, L{\'o}pez, Koltun, and
+  Dosovitskiy]{codevilla2018end}
+Codevilla, F., Miiller, M., L{\'o}pez, A., Koltun, V., and Dosovitskiy, A.
+\newblock End-to-end driving via conditional imitation learning.
+\newblock In \emph{2018 IEEE International Conference on Robotics and
+  Automation (ICRA)}, pp.\  1--9. IEEE, 2018.
+
+\bibitem[Consortium(2009)]{international2009estimation}
+Consortium, I. W.~P.
+\newblock Estimation of the warfarin dose with clinical and pharmacogenetic
+  data.
+\newblock \emph{New England Journal of Medicine}, 360\penalty0 (8):\penalty0
+  753--764, 2009.
+
+\bibitem[Dani et~al.(2008)Dani, Hayes, and Kakade]{dani2008stochastic}
+Dani, V., Hayes, T.~P., and Kakade, S.~M.
+\newblock Stochastic linear optimization under bandit feedback.
+\newblock 2008.
+
+\bibitem[Lai \& Robbins(1985)Lai and Robbins]{lai1985asymptotically}
+Lai, T.~L. and Robbins, H.
+\newblock Asymptotically efficient adaptive allocation rules.
+\newblock \emph{Advances in applied mathematics}, 6\penalty0 (1):\penalty0
+  4--22, 1985.
+
+\bibitem[Lattimore \& Szepesv{\'a}ri(2018)Lattimore and
+  Szepesv{\'a}ri]{lattimore2018bandit}
+Lattimore, T. and Szepesv{\'a}ri, C.
+\newblock Bandit algorithms.
+\newblock \emph{preprint}, pp.\ ~28, 2018.
+
+\bibitem[Li et~al.(2010)Li, Chu, Langford, and Schapire]{li2010contextual}
+Li, L., Chu, W., Langford, J., and Schapire, R.~E.
+\newblock A contextual-bandit approach to personalized news article
+  recommendation.
+\newblock In \emph{Proceedings of the 19th international conference on World
+  wide web}, pp.\  661--670, 2010.
+
+\bibitem[Mnih et~al.(2013)Mnih, Kavukcuoglu, Silver, Graves, Antonoglou,
+  Wierstra, and Riedmiller]{mnih2013playing}
+Mnih, V., Kavukcuoglu, K., Silver, D., Graves, A., Antonoglou, I., Wierstra,
+  D., and Riedmiller, M.
+\newblock Playing atari with deep reinforcement learning.
+\newblock \emph{arXiv preprint arXiv:1312.5602}, 2013.
+
+\bibitem[Peters et~al.(2003)Peters, Vijayakumar, and
+  Schaal]{peters2003reinforcement}
+Peters, J., Vijayakumar, S., and Schaal, S.
+\newblock Reinforcement learning for humanoid robotics.
+\newblock In \emph{Proceedings of the third IEEE-RAS international conference
+  on humanoid robots}, pp.\  1--20, 2003.
+
+\end{thebibliography}
